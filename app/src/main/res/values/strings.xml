@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title_activity_registro"></string>
+    <string name="title_activity_main">Welcome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bienvenido</string>
+    <string name="nav_header_subtitle">COMPUTERSTORE@store.pe</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Prodcutos</string>
+    <string name="menu_gallery">Tienda</string>
+    <string name="menu_slideshow">Contactanos</string>
+    <string name="menu_tools">Ubicanos</string>
+    <string name="menu_share">Logout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

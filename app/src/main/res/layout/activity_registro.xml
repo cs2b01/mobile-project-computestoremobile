@@ -85,7 +85,7 @@
                 android:id="@+id/btnRegistrar"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-
+                android:onClick="onBtnLoginClicked"
                 android:text="Registrate"
                 android:textColorHighlight="#03A9F4"
                 android:textColorLink="#5BB0DB"

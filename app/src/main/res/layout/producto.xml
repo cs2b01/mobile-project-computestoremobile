@@ -3,7 +3,7 @@
     android:id="@+id/element_view_container"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="30dp"
+    android:layout_height="45dp"
     android:padding="3dp"
     >
     <LinearLayout
@@ -16,7 +16,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:textSize="25sp"
+            android:textSize="30sp"
             android:textColor="#012"
             android:background="#00FFFF"
             />
@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:gravity="center"
             android:layout_height="wrap_content"
-            android:textSize="20sp"
+            android:textSize="30sp"
             android:textColor="#012"
             android:background="@drawable/message"
 

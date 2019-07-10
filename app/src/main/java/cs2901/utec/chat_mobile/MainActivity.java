@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void getProductos(){
-        String url = "http://10.0.2.2:5000/productos";
+        String url = "http://10.0.2.2:5000/mobile/productos";
         RequestQueue queue = Volley.newRequestQueue(this);
 
         JsonObjectRequest request = new JsonObjectRequest(

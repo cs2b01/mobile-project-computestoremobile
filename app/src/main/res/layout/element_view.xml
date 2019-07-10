@@ -4,20 +4,22 @@
     android:id="@+id/element_view_container"
     android:layout_height="72dp"
     android:layout_width="match_parent"
-    android:padding="16dp">
+    android:padding="20dp">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/element_view_first_line"
         android:text="This is the first line"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:textColor="#000"
+        android:background="#00FFFF"
         />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/element_view_second_line"
         android:layout_below="@+id/element_view_first_line"
-        android:textSize="14sp"
+        android:textSize="20sp"
+        android:background="#00FFFF"
         />
 </RelativeLayout>

@@ -20,7 +20,7 @@
             android:name=".RegistroActivity"
             android:label="@string/title_activity_registro"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".ContactsActivity" />
+        <activity android:name=".DetallesActivity" />
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,7 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MessageActivity"></activity>
+        <activity android:name=".ProductosActivity"></activity>
     </application>
 
 </manifest>

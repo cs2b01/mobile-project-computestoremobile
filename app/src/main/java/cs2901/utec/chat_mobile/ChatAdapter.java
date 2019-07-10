@@ -59,7 +59,7 @@ public class ChatAdapter extends RecyclerView.Adapter<ChatAdapter.ViewHolder> {
 
                 @Override
                 public void onClick(View v) {
-                    Intent goToMessage = new Intent(context,MessageActivity.class);
+                    Intent goToMessage = new Intent(context, ProductosActivity.class);
                     goToMessage.putExtra("user_from_id",userFromId);
                     goToMessage.putExtra("user_to_id",id);
                     goToMessage.putExtra("username", username);
